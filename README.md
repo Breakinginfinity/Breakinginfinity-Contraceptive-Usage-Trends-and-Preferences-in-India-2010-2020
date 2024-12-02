@@ -17,12 +17,14 @@ This project analyzes contraceptive usage trends and preferences in India from 2
 
 Understanding contraceptive usage is vital for addressing public health concerns and improving access to reproductive healthcare. This project investigates how contraceptive preferences have evolved in India over a decade, considering factors such as age, region, and education.
 
+![Contraceptive Usage Trends and Preferences in India (2010–2020)_page-0001](https://github.com/user-attachments/assets/b0b2dcf6-5314-4c2a-8fd4-bc7076267b6b)
+
+
 ## Data Sources
 
 The data for this project is sourced from:  
-- National Family Health Survey (NFHS)  
-- World Bank Data  
-- Other publicly available government health databases  
+- National Family Health Survey (NFHS)  _ https://www.nfhsiips.in/nfhsuser/index.php
+- World Bank Data  - https://www.worldbank.org/ext/en/home
 
 ## Methodology
 
